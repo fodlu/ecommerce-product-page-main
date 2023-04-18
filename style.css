@@ -38,8 +38,7 @@ main {
 .cartList {
   display: none;
   width: 340px;
-  height: 350px;
-  overflow-y: scroll;
+  height: max-content;
   position: absolute;
   top: 85px;
   right: 50px;
